@@ -13,7 +13,7 @@
 ## Client Side
 - First of all I defined the global Variables in order to be readable in the rest of our
 - Async/Await functions used to send post/get requests
-- Double click event listener is used to activate the requests just on clicking the generating button twice
+- OnClick event listener is used to activate the requests just on clicking the generating button twice
 - Ternary operator is used to check validity of the entered numbers
 - Updating UI via selecting the target element and changing their innerText
 ### External Refrences
