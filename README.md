@@ -11,7 +11,7 @@
 - One get route is set to send data to client side
 - One post route is used to save data sent to server side
 ## Client Side
-- First of all I defined the global Variables in order to be readable in the rest of our
+- First of all I defined the global Variables in order to be readable in the rest of our code
 - Async/Await functions used to send post/get requests
 - OnClick event listener is used to activate the requests just on clicking the generating button twice
 - Ternary operator is used to check validity of the entered numbers
