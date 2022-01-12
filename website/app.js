@@ -2,7 +2,7 @@
 let zipNumber = document.getElementById('zip');
 let feel = document.querySelector('#feelings');
 let generatingBtn = document.querySelector('#generate');
-let api = "&appid=b63fc12263da2ed25920df95b431c154";
+const api = "&appid=b63fc12263da2ed25920df95b431c154";
 let unit = "&units=metric";
 let url = "https://api.openweathermap.org/data/2.5/weather?zip=";
 
